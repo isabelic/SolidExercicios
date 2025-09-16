@@ -1,4 +1,4 @@
-package solucoes;
+package solucoes2;
 
 public class CupomDesconto  implements DiscountCalculator{
     public double calc(double quantidade){

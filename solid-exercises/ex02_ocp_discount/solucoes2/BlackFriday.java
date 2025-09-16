@@ -1,4 +1,4 @@
-package solucoes;
+package solucoes2;
 
 public class BlackFriday implements DiscountCalculator{
     public double calc( double quantidade){
